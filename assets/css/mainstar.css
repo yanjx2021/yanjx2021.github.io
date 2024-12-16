@@ -219,6 +219,8 @@ hr {
   margin: 2em 0; }
   hr.major {
     margin: 3em 0; }
+#hr-blue {
+    border-bottom: solid 1px #87CEFA; }
 
 .align-left {
   text-align: left; }
